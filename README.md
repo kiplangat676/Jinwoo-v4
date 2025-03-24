@@ -1,7 +1,7 @@
 
 #### MULTI DEVICE WHATSAPP BOT JINWOO-V4 | STILL MANY HIDDEN COMMANDS
 
-<<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 > **`Updated To` The Version 4.0.0**
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
@@ -12,7 +12,7 @@ Jinwoo-v4 BY Malvin King 🩵
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-<a><img src='https://files.catbox.moe/2prjby.jpg'/></a>
+<a><img src='https://files.catbox.moe/bqs70b.jpg'/></a>
 
 ---
 
@@ -101,7 +101,7 @@ To set up the Jinwoo-bot v4 quickly, follow our detailed tutorial on YouTube:
 - **Imagen Ai** Many Image Generator**AI Models** Will Generates Images And Designs Based On Your **Prompts/text**.
 - **Reactions**: A Secret Reations Menu For Group.
 ---
-</detsils>
+</details>
 
 ## Deployment Options
 
@@ -185,7 +185,7 @@ To set up the Jinwoo-bot v4 quickly, follow our detailed tutorial on YouTube:
       <img alt='Deployment Tutorial' src='https://img.shields.io/badge/-Tutorial-red?style=for-the-badge&logo=youtube&logoColor=white'/>
    </a>
    
----
+</details>
 
 -----------
 
