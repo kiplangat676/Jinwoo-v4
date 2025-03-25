@@ -81,7 +81,7 @@ global.dygp = 'https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z'
 global.fgsc = 'https://github.com/kingmalvn/Jinwoo-v4'
 global.fgyt = 'https://youtube.com/@malvintech2'
 global.fgpyp = 'https://github.com/kingmalvn'
-global.fglog = 'https://files.catbox.moe/bqs70b.jpg'
+global.fglog = 'https://files.catbox.moe/jevubx.jpg'
 global.thumb = fs.readFileSync('./assets/jin.jpg')
 
 global.wait = '⏳'
