@@ -113,11 +113,11 @@ To set up the Jinwoo-bot v4 quickly, follow our detailed tutorial on YouTube:
 ### **PAIRING CODE QR CODE**
    - Visit the bot site to generate a pairing code and get **SESSION ID.**
 
-     [![Jinwoo v4 Github Repo](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](iiuiuuuuuuu)
+     [![Jinwoo v4 Github Repo](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://random-catherina-lirds-fea547ff.koyeb.app/)
 
 ### DEPLOY BY SESSION ID (WHATSAPP LOG WITH PAIR CODE)
 
-<a href='jkkkjjjjjjjjj' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
+<a href='https://random-catherina-lirds-fea547ff.koyeb.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
 
 ### **Step-by-Step Deployment Guide**
 
