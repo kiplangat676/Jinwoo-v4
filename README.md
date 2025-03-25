@@ -12,7 +12,7 @@ Jinwoo-v4 BY Malvin King 🩵
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-<a><img src='https://files.catbox.moe/bqs70b.jpg'/></a>
+<a><img src='https://files.catbox.moe/jevubx.jpg'/></a>
 
 ---
 
