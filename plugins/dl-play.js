@@ -4,7 +4,7 @@ import ytSearch from "yt-search";
 let handler = async (m, { conn, text, botname }) => {
   if (!text) return m.reply("❌ What song do you want to download?");
 
-  await m.reply("🔄 *Tohid-Ai Bot Fetching your audio... Please wait...*");
+  await m.reply("🔄 *JINWOO-V4 Bot Fetching your audio... Please wait...*");
 
   try {
     let search = await ytSearch(text);
@@ -14,7 +14,7 @@ let handler = async (m, { conn, text, botname }) => {
 
     let link = video.url;
     let apis = [
-      `https://apis.davidcyriltech.my.id/youtube/mp3?url=${link}`,
+      `https://apis.davidcyriltech.my.id/download/ytmp3?url=${link}`,
       `https://api.ryzendesu.vip/api/downloader/ytmp3?url=${link}`
     ];
 
